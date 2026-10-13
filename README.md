@@ -19,7 +19,7 @@ O código está em [`notebooks/01_exploracao.ipynb`](notebooks/01_exploracao.ipy
 
 ### Atraso e nota de avaliação
 
-Dos 95.824 pedidos entregues com avaliação, 6.381 (cerca de 6,7%) chegaram depois do prazo estimado. A nota média desses pedidos foi 2,27, contra 4,29 dos que chegaram no prazo. A maior queda acontece na primeira semana de atraso: a nota vai de 4,29 para 3,29 com 1 a 3 dias e para 2,10 com 4 a 7 dias, e depois se estabiliza perto de 1,7. Isso mostra que atraso e nota baixa andam juntos, mas não prova que o atraso é a única causa.
+Dos 96.470 pedidos entregues, 6.534 (cerca de 6,8%) chegaram depois do prazo estimado. Entre os 95.824 que também têm avaliação, os 6.381 pedidos atrasados tiveram nota média de 2,27, contra 4,29 dos que chegaram no prazo. A maior queda acontece na primeira semana de atraso: a nota vai de 4,29 para 3,29 com 1 a 3 dias e para 2,10 com 4 a 7 dias, e depois se estabiliza perto de 1,7. Isso mostra que atraso e nota baixa andam juntos, mas não prova que o atraso é a única causa.
 
 ![Nota média por faixa de atraso](images/nota_por_atraso.png)
 
